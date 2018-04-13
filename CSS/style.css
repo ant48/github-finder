@@ -1,0 +1,5 @@
+@media queries only screen and (max-width: 576px) {
+  .repo div {
+    width: 100%;
+  }
+}
